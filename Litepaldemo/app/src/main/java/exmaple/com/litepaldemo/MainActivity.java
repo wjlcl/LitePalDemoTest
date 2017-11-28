@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 new Thread(new Runnable() {
                     @Override
                     public void run() {
-
                         SQLiteDatabase sqlDB = Connector.getDatabase();
                     }
                 }).start();

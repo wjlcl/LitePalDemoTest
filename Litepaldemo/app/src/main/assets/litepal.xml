@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="demo" ></dbname>
+
+    <version value="3" ></version>
+
+    <list>
+        <mapping class="exmaple.com.litepaldemo.News"></mapping>
+        <mapping class="exmaple.com.litepaldemo.Comment"></mapping>
+    </list>
+</litepal>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Litepaldemo</string>
+    <string name="btn_createDBstr">创建数据库</string>
+    <string name="btn_AddDatastr">添加数据</string>
+    <string name="btn_ModifyDatastr">修改数据</string>
+    <string name="btn_QureyDatastr">查询数据</string>
+</resources>
